@@ -54,4 +54,4 @@ function AR (LR,HR){
             function ARO (DMA,DME){
                 return ResRO =(DMA*DME/2)
                 }
-                console.log (ARO(4,5))  
+                console.log (ARO(10))  
